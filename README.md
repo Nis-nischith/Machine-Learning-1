@@ -47,3 +47,9 @@ Epoch 9/10
 
 Epoch 10/10
 601/601 [==============================] - 55s 91ms/step - loss: 0.0339 - accuracy: 0.9942 - val_loss: 0.0048 - val_accuracy: 1.0000
+
+
+
+![acc](https://github.com/Nis-nischith/Machine-Learning-1/assets/119352488/985c961f-4111-4b74-ae25-8209dc69ff3d)
+
+![loss](https://github.com/Nis-nischith/Machine-Learning-1/assets/119352488/9dafa009-c2b5-44e5-99a3-3f78c395bab2)
