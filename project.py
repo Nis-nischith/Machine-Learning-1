@@ -12,7 +12,7 @@ from keras.optimizers.legacy import Adam
 from keras.preprocessing.image import ImageDataGenerator
 
 
-batch_size = 1
+batch_size = 32
 EPOCHS = 10
 NUM_CLASSES = 26
 image_size = (28, 28, 1)
@@ -32,7 +32,7 @@ outputs = Dense(NUM_CLASSES, activation='softmax')(dropout)
 model = Model(inputs=inputs, outputs=outputs)
 
 # defining dataset size
-dataset = 32
+dataset = 27455
 # defining the dataset split
 train_ratio = 0.7
 test_ratio = 0.3
