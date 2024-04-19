@@ -11,6 +11,11 @@ The CNN model is built by these layers -
 8. Followed by Dense layer and droupout with a rate of 0.2
 9. Dense layer for final classification with softmax as activation function
 
+
+![american_sign_language](https://github.com/Nis-nischith/Machine-Learning-1/assets/119352488/c28263fc-a614-4abf-bc01-488269f53b97)
+
+
+
 Final result of tranining the model on train and val dataset with 70/30 ratio split-
 
 Epoch 1/10
