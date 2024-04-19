@@ -71,7 +71,7 @@ test_data = val_datagen.flow(
     batch_size=batch_size)
 
 # compiling model
-opt = Adam(learning_rate=0.001)
+opt = Adam(learning_rate=0.0001)
 model.compile( optimizer=opt, loss="categorical_crossentropy", metrics=['accuracy'])
 model.fit(
     train_generator,
