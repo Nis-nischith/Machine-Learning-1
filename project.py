@@ -38,7 +38,7 @@ train_ratio = 0.7
 test_ratio = 0.3
 
 # reading csv file
-data = pd.read_csv('path/to/your/csv/file.csv')
+data = pd.read_csv('sign_mnist_train.csv')
 
 # extracting pixel values and class number
 pixels = data.iloc[ 1:, -784: ].values
