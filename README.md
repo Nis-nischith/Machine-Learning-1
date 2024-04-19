@@ -19,31 +19,31 @@ The CNN model is built by these layers -
 Final result of tranining the model on train and val dataset with 70/30 ratio split-
 
 Epoch 1/10
-601/601 [==============================] - 51s 84ms/step - loss: 0.9696 - accuracy: 0.7122 - val_loss: 0.0612 - val_accuracy: 0.9926
+601/601 [==============================] - 65s 107ms/step - loss: 2.3305 - accuracy: 0.3428 - val_loss: 1.1549 - val_accuracy: 0.7266
 
 Epoch 2/10
-601/601 [==============================] - 56s 93ms/step - loss: 0.0900 - accuracy: 0.9746 - val_loss: 0.0070 - val_accuracy: 1.0000
+601/601 [==============================] - 56s 93ms/step - loss: 0.9446 - accuracy: 0.7242 - val_loss: 0.5028 - val_accuracy: 0.8849
 
 Epoch 3/10
-601/601 [==============================] - 50s 83ms/step - loss: 0.0436 - accuracy: 0.9868 - val_loss: 0.0037 - val_accuracy: 1.0000
+601/601 [==============================] - 52s 86ms/step - loss: 0.5081 - accuracy: 0.8552 - val_loss: 0.2357 - val_accuracy: 0.9611
 
 Epoch 4/10
-601/601 [==============================] - 54s 90ms/step - loss: 0.0327 - accuracy: 0.9896 - val_loss: 0.0012 - val_accuracy: 1.0000
+601/601 [==============================] - 54s 90ms/step - loss: 0.3027 - accuracy: 0.9160 - val_loss: 0.1330 - val_accuracy: 0.9836
 
 Epoch 5/10
-601/601 [==============================] - 50s 83ms/step - loss: 0.0234 - accuracy: 0.9926 - val_loss: 0.0016 - val_accuracy: 0.9999
+601/601 [==============================] - 50s 84ms/step - loss: 0.1812 - accuracy: 0.9538 - val_loss: 0.0616 - val_accuracy: 0.9981
 
 Epoch 6/10
-601/601 [==============================] - 51s 84ms/step - loss: 0.0174 - accuracy: 0.9944 - val_loss: 3.1374e-04 - val_accuracy: 1.0000
+601/601 [==============================] - 52s 86ms/step - loss: 0.1168 - accuracy: 0.9742 - val_loss: 0.0336 - val_accuracy: 0.9998
 
 Epoch 7/10
-601/601 [==============================] - 50s 83ms/step - loss: 0.0143 - accuracy: 0.9953 - val_loss: 1.6623e-04 - val_accuracy: 1.0000
+601/601 [==============================] - 51s 85ms/step - loss: 0.0772 - accuracy: 0.9844 - val_loss: 0.0189 - val_accuracy: 1.0000
 
 Epoch 8/10
-601/601 [==============================] - 54s 90ms/step - loss: 0.0173 - accuracy: 0.9941 - val_loss: 2.8872e-04 - val_accuracy: 1.0000
+601/601 [==============================] - 50s 83ms/step - loss: 0.0575 - accuracy: 0.9894 - val_loss: 0.0120 - val_accuracy: 1.0000
 
 Epoch 9/10
-601/601 [==============================] - 62s 103ms/step - loss: 0.0123 - accuracy: 0.9960 - val_loss: 1.8116e-04 - val_accuracy: 1.0000
+601/601 [==============================] - 51s 85ms/step - loss: 0.0422 - accuracy: 0.9919 - val_loss: 0.0073 - val_accuracy: 1.0000
 
 Epoch 10/10
-601/601 [==============================] - 49s 82ms/step - loss: 0.0150 - accuracy: 0.9947 - val_loss: 6.4468e-04 - val_accuracy: 1.0000
+601/601 [==============================] - 55s 91ms/step - loss: 0.0339 - accuracy: 0.9942 - val_loss: 0.0048 - val_accuracy: 1.0000
